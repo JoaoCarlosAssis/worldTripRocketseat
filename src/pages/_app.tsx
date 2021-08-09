@@ -7,6 +7,8 @@ import '../styles/SwiperColors.scss'
 import 'swiper/components/navigation/navigation.scss';
 import 'swiper/components/pagination/pagination.scss';
 import 'swiper/components/scrollbar/scrollbar.scss';
+import '../styles/Global.scss';
+
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (

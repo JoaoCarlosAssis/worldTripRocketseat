@@ -1,0 +1,121 @@
+{
+  "continents": [
+    {
+      "id": "1",
+      "continent": "América do Norte",
+      "bannerUrl": "https://images.unsplash.com/photo-1602940659805-770d1b3b9911?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+      "description": "Grandes experiências.",
+      "about": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+      "countries": "3",
+      "languages": "6",
+      "numberCities": "28",
+      "cities": [
+        { "name": "Cidade do México", "state": "Capital do México", "imageCity": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"},
+
+        { "name": "Nova Iorque", "state": "Nova Iorque", "imageCity": "https://images.unsplash.com/photo-1609194246569-08d61baefd7b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://cdn10.bigcommerce.com/s-hhbbk/products/1475/images/50061/UNST0131__98759.1580484716.1280.1280.png?c=2"},
+
+        { "name": "Los Angeles", "state": "Califórnia", "imageCity": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg"},
+
+        { "name": "Toronto", "state": "Ontário", "imageCity": "https://images.unsplash.com/photo-1601923146328-310db041a805?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/305px-Flag_of_Canada_%28Pantone%29.svg.png"},
+
+        { "name": "Washington, D.C.", "state": "Capital dos EUA", "imageCity": "https://images.unsplash.com/photo-1569895651456-710929d12d50?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png"}
+
+      ]
+    },
+    {
+      "id": "2",
+      "continent": "América do Sul",
+      "bannerUrl": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1398&q=80",
+      "description": "As maiores riquezas naturais.",
+      "about": "A América do Sul está localizada em grande parte no hemisfério sul, na zona intertropical ocidental. A América do Sul abrange um território de 18 milhões de quilômetros quadrados e é banhada a leste pelo oceano Atlântico, a oeste pelo oceano Pacífico e ao norte pelo mar das Antilhas, conhecido como do Caribe.",
+      "countries": "13",
+      "languages": "9",
+      "numberCities": "36",
+      "cities": [
+        { "name": "São Paulo", "state": "São Paulo", "imageCity": "https://i.pinimg.com/originals/00/dd/86/00dd8619194da72d3971bd0a60a0a08e.jpg", "flag": "https://img2.gratispng.com/20181123/kp/kisspng-flag-of-brazil-image-national-flag-5bf86cc6221581.4366732815430074301396.jpg"},
+
+        { "name": "Buenos Aires", "state": "Argentina", "imageCity": "https://images.unsplash.com/photo-1495317823589-e67efe1524b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg"},
+
+        { "name": "Rio de Janeiro", "state": "Rio de Janeiro", "imageCity": "https://images.unsplash.com/photo-1515700281303-5a0a73d9c584?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://img2.gratispng.com/20181123/kp/kisspng-flag-of-brazil-image-national-flag-5bf86cc6221581.4366732815430074301396.jpg"},
+
+        { "name": "La Paz", "state": "Capital da Bolívia", "imageCity": "https://images.unsplash.com/photo-1596118769843-08e9ad381ab0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/1280px-Flag_of_Bolivia_%28state%29.svg.png"}
+      ]
+    },
+    {
+      "id": "3",
+      "continent": "Ásia",
+      "bannerUrl": "https://images.unsplash.com/photo-1496568816309-51d7c20e3b21?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+      "description": "O maior território",
+      "about": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial",
+      "countries": "50",
+      "languages": "15",
+      "numberCities": "4",
+      "cities": [
+        { "name": "Bangkok", "state": "Tailândia", "imageCity": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=647&q=80", "flag": "https://http2.mlstatic.com/D_NQ_NP_774472-MLB30243554490_052019-O.jpg"},
+
+        { "name": "Tóquio", "state": "Japão", "imageCity": "https://images.unsplash.com/photo-1590431017601-0ed3355c1377?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=307&q=80", "flag": "https://static.poder360.com.br/2019/05/bandeira-japao.jpg"},
+
+        { "name": "Dubai", "state": "Emirados Árabes", "imageCity": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://cdn.pixabay.com/photo/2020/06/26/11/43/uae-5342435_1280.png"},
+
+        { "name": "Hong Kong", "state": "China", "imageCity": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://media.istockphoto.com/vectors/china-flag-icon-isolated-on-white-background-chinese-round-badge-vector-id1038807704?k=6&m=1038807704&s=170667a&w=0&h=376iOi9AOKBzjPbr79IwkixdwDx47ovrJVGfFeJ4HME="}
+      ]
+    },
+    {
+      "id": "4",
+      "continent": "África",
+      "bannerUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1506&q=80",
+      "description": "Riqueza cultural e histórica",
+      "about": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas.",
+      "countries": "54",
+      "languages": "50",
+      "numberCities": "4",
+      "cities": [
+        { "name": "Cidade do Cabo", "state": "África do Sul", "imageCity": "https://images.unsplash.com/photo-1606190359155-1a243ab73704?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://media.istockphoto.com/vectors/south-africa-flag-vector-round-flat-icon-vector-id867785994?k=6&m=867785994&s=170667a&w=0&h=X21DTfRUGSH0jn3_CnWtVLn14SdaTSEQFAIxGZnP52s="},
+
+        { "name": "Cairo", "state": "Capital do Egito", "imageCity": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://cdn.icon-icons.com/icons2/1531/PNG/512/3253478-egypt-icon-flag_106773.png"},
+
+        { "name": "Johanesburgo", "state": "África do Sul", "imageCity": "https://www.maxmilhas.com.br/blog/wp-content/uploads/2020/09/gettyimages-1170679782_-e1592921872711-770x450.jpg", "flag": "https://media.istockphoto.com/vectors/south-africa-flag-vector-round-flat-icon-vector-id867785994?k=6&m=867785994&s=170667a&w=0&h=X21DTfRUGSH0jn3_CnWtVLn14SdaTSEQFAIxGZnP52s="},
+
+        { "name": "Alexandria", "state": "Cidade no Egito", "imageCity": "https://i2.wp.com/www.descobriregipto.com/wp-content/uploads/2017/07/Alexandria-no-Egito.jpg?fit=894%2C645&ssl=1", "flag": "https://cdn.icon-icons.com/icons2/1531/PNG/512/3253478-egypt-icon-flag_106773.png"}
+      ]
+    },
+    {
+      "id": "5",
+      "continent": "Europa",
+      "bannerUrl": "https://images.unsplash.com/photo-1544085311-11a028465b03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+      "description": "Grandes arquiteturas",
+      "about": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": "50",
+      "languages": "24",
+      "numberCities": "4",
+      "cities": [
+        { "name": "Paris", "state": "Capital da França", "imageCity": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80", "flag": "https://rlv.zcache.com.br/adesivo_redondo_bandeira_francesa-rf9ef8ae9b74340da95fd2f60eb545629_0ugmp_8byvr_307.jpg"},
+
+        { "name": "Lisboa", "state": "Capital de Portugal", "imageCity": "https://images.unsplash.com/photo-1606215767711-263080a6b4b9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://thumbs.dreamstime.com/b/bola-de-vidro-com-bandeira-portugal-%C3%ADcone-modelo-esfera-redonda-s%C3%ADmbolo-nacional-portugu%C3%AAs-realista-brilhante-ilustra%C3%A7%C3%A3o-do-210070505.jpg"},
+
+        { "name": "Londres", "state": "Capital da Inglaterra", "imageCity": "https://images.unsplash.com/photo-1589657068463-ef4077ce0d10?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80", "flag": "https://media.istockphoto.com/vectors/united-kingdom-round-flag-vector-flat-icon-vector-id958139518?k=6&m=958139518&s=170667a&w=0&h=cegP665ZxlhisYVnSa1tLRdNNfpftWLvzNVXOaxkM0g="},
+
+        { "name": "Roma", "state": "Capital da Itália", "imageCity": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://rlv.zcache.com.br/adesivo_redondo_circulo_da_bandeira_da_qualidade_de_italia-rf5ddc720fe054927a4fb16be480ac15e_0ugmp_8byvr_540.jpg"}
+      ]
+    },
+    {
+      "id": "6",
+      "continent": "Oceania",
+      "bannerUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "description": "Paisagens paradisíacas",
+      "about": "Oceania é uma região geográfica que inclui a Australásia, Melanésia, Micronésia e Polinésia. Abrangendo os hemisférios oriental e ocidental, a Oceania tem uma área de 8.525.989 quilômetros quadrados e uma população de mais de 41 milhões.",
+      "countries": "14",
+      "languages": "18",
+      "numberCities": "4",
+      "cities": [
+        { "name": "Sydney", "state": "Cidade na Austrália", "imageCity": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://media.istockphoto.com/vectors/australian-round-flag-australia-vector-id1172156249?k=6&m=1172156249&s=170667a&w=0&h=n9nDMa9P-0V6B-Wf8L4lA7djo19HkHiNFMDmWuL9W6w="},
+
+        { "name": "Wellington", "state": "Capital da Nova Zelândia", "imageCity": "https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80", "flag": "https://media.istockphoto.com/vectors/australian-round-flag-australia-vector-id1172156249?k=6&m=1172156249&s=170667a&w=0&h=n9nDMa9P-0V6B-Wf8L4lA7djo19HkHiNFMDmWuL9W6w="},
+
+        { "name": "Palikiro", "state": "Micronésia", "imageCity": "https://1.bp.blogspot.com/-FC0jP_g4Hrg/WD8J3eRe4bI/AAAAAAACASM/1VFLmhypQO0nzIZcgVupq9H2z-J2M8w5ACLcB/s1600/PALIKIR..jpg", "flag": "https://flagdownload.com/wp-content/uploads/Flag_of_Federated_States_of_Micronesia_Flat_Round_Corner-1024x1024.png"},
+
+        { "name": "Port Moresby", "state": "Papua-Nova Guiné", "imageCity": "https://images.unsplash.com/photo-1516916437834-4110cd9edf4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80", "flag": "https://img2.gratispng.com/20180829/ulb/kisspng-flag-of-papua-new-guinea-port-moresby-australia-papua-new-guinea-flag-png-5b875868a31c39.5855105015355966486681.jpg"}
+      ]
+    }
+  ]
+}

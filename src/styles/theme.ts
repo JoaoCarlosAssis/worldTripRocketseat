@@ -14,12 +14,19 @@ export const theme = extendTheme({
       "200": "#b3b5c6",
       "100": "#d1d2dc",
       "50": "#eeeef2",
+      "10": "#F5F8FA"
+    },
+    yellow: {
+     "900": "#FFBA08"
+    }, 
+    white: {
+      "900": "#FFFFFF"
     }
   },
   styles: {
     global:{
       body: {
-        color: 'gray.50'
+        color: 'gray.10'
       }
     }
   }

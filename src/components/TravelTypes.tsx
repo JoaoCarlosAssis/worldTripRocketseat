@@ -1,5 +1,5 @@
-import { Box, Flex, Grid, Heading, Image, Text } from '@chakra-ui/react'
-
+import { Box, Flex, Grid, Heading, Image, List, ListIcon, ListItem, OrderedList, Text } from '@chakra-ui/react'
+import { GiPlainCircle } from 'react-icons/gi'
 interface TravelTypesProps {
   showProfileData?: boolean;
 }
@@ -39,20 +39,45 @@ export function TravelTypes({ showProfileData = true }: TravelTypesProps) {
         </Grid>
       )}
       {!showProfileData && (
-        <Text>deu certo</Text>
-      )}
-        <Box maxW="90px" h="2px" mt="10" borderRadius="1" mx="auto"  bg="gray.800">
 
-        </Box>
-      <Heading as="h2" 
-        textAlign="center" 
-        fontSize="36px" 
-        fontWeight="medium" 
+        <List color="gray.800" mt="8" textAlign="center" fontFamily="Poppins" fontSize="1xl" fontWeight="bold">
+          <Grid templateColumns="repeat(2, 1fr)" textAlign="center" gap="4">
+          <ListItem >
+            <ListIcon as={GiPlainCircle} color="yellow.900" />
+            Vida noturna
+          </ListItem>
+          <ListItem>
+            <ListIcon as={GiPlainCircle} color="yellow.900" />
+            Praia
+          </ListItem>
+          <ListItem>
+            <ListIcon as={GiPlainCircle} color="yellow.900" />
+            Moderno
+          </ListItem>
+          <ListItem>
+            <ListIcon as={GiPlainCircle} color="yellow.900" />
+            Clássico
+          </ListItem>
+          </Grid>
+          <ListItem mt="4">
+            <ListIcon as={GiPlainCircle} color="yellow.900" />
+            e mais...
+          </ListItem>
+        </List>
+
+      )}
+      <Box maxW="90px" h="2px" mt="10" borderRadius="1" mx="auto" bg="gray.800">
+
+      </Box>
+      <Heading as="h2"
+        textAlign="center"
+        fontSize="36px"
+        fontWeight="medium"
         fontFamily="Poppins"
         color="gray.700"
-        mt="8"  
+        mt="8"
       >
-        Vamos nessa?<br/>
+        Vamos nessa?<br />
         Então escolha seu continente
       </Heading>
     </Box>

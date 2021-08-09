@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <Box>
       <Header />
-      <Banner showProfileData={isWidVersion}  />
-      <TravelTypes showProfileData={isWidVersion}/>
+      <Banner showProfileData={isWidVersion} />
+      <TravelTypes showProfileData={isWidVersion} />
       <Carrossel />
     </Box>
   )
