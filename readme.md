@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como um exercício do bootcamp Ignite da Rocketsea
 
 ```bash
 # Clone este repositório
-$ git clone <>
+$ git clone <https://github.com/JoaoCarlosAssis/worldTripRocketseat.git>
 
 # Instale as dependências
 $ yarn
